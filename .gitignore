@@ -1,0 +1,10 @@
+﻿venv/
+.env
+*.db
+__pycache__/
+*.pyc
+check_*.py
+diag.py
+ping_keitaro.py
+add_filter.py
+patch_client.py

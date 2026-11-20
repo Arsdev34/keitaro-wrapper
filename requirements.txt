@@ -1,0 +1,9 @@
+﻿fastapi
+uvicorn
+sqlalchemy
+aiosqlite
+httpx
+pydantic-settings
+python-dotenv
+jinja2
+python-multipart
